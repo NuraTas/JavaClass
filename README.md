@@ -1,0 +1,2 @@
+# JavaClass
+For Java Class
